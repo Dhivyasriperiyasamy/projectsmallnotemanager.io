@@ -1,1 +1,1 @@
-# projectsmallnotemanager.io
+# projectsmartnotemanager.io
